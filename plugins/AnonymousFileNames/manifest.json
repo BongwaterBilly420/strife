@@ -1,14 +1,14 @@
 {
-    "name": "AnonymousFileNames",
-    "description": "Randomises file names before you upload them.",
+    "name": "FakeNitro",
+    "description": "Fake Nitro ;).",
     "authors": [
         {
-            "name": "Beef",
+            "name": "Skided-by-BongwaterBilly420",
             "id": "257109471589957632"
         }
     ],
-    "main": "src/index.ts",
+    "main": "src/plugins/fakeNitro.ts",
     "vendetta": {
-        "icon": "icon-qs-files"
+        "icon": "ic_noise_cancellation_disabled"
     }
 }
